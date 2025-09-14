@@ -1,0 +1,13 @@
+[2025-09-13T05:03:47.658615Z] Starting ArXiv query: cat:cs.LG
+[2025-09-13T05:03:47.975485Z] Fetched 10 results from ArXiv API
+[2025-09-13T05:03:47.978600Z] Processing paper: 9905014v1
+[2025-09-13T05:03:47.981543Z] Processing paper: 9905015v1
+[2025-09-13T05:03:47.983443Z] Processing paper: 0001004v1
+[2025-09-13T05:03:47.985432Z] Processing paper: 0002006v1
+[2025-09-13T05:03:47.987394Z] Processing paper: 0009001v3
+[2025-09-13T05:03:47.989588Z] Processing paper: 0009007v1
+[2025-09-13T05:03:47.991122Z] Processing paper: 0011032v1
+[2025-09-13T05:03:47.992670Z] Processing paper: 0011044v1
+[2025-09-13T05:03:47.994860Z] Processing paper: 0103003v1
+[2025-09-13T05:03:47.996193Z] Processing paper: 0110036v1
+[2025-09-13T05:03:48.003925Z] Completed processing: 10 papers in [0.35] seconds

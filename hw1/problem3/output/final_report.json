@@ -1,0 +1,924 @@
+{
+  "processing_timestamp": "2025-09-14T00:10:47.406188+00:00",
+  "documents_processed": 2,
+  "total_words": 645,
+  "unique_words": 352,
+  "top_100_words": [
+    {
+      "word": "the",
+      "count": 35,
+      "frequency": 0.054
+    },
+    {
+      "word": "and",
+      "count": 28,
+      "frequency": 0.043
+    },
+    {
+      "word": "of",
+      "count": 22,
+      "frequency": 0.034
+    },
+    {
+      "word": "to",
+      "count": 17,
+      "frequency": 0.026
+    },
+    {
+      "word": "in",
+      "count": 15,
+      "frequency": 0.023
+    },
+    {
+      "word": "a",
+      "count": 15,
+      "frequency": 0.023
+    },
+    {
+      "word": "his",
+      "count": 14,
+      "frequency": 0.022
+    },
+    {
+      "word": "s",
+      "count": 10,
+      "frequency": 0.016
+    },
+    {
+      "word": "had",
+      "count": 8,
+      "frequency": 0.012
+    },
+    {
+      "word": "this",
+      "count": 7,
+      "frequency": 0.011
+    },
+    {
+      "word": "for",
+      "count": 6,
+      "frequency": 0.009
+    },
+    {
+      "word": "old",
+      "count": 6,
+      "frequency": 0.009
+    },
+    {
+      "word": "blacksmith",
+      "count": 6,
+      "frequency": 0.009
+    },
+    {
+      "word": "by",
+      "count": 6,
+      "frequency": 0.009
+    },
+    {
+      "word": "he",
+      "count": 6,
+      "frequency": 0.009
+    },
+    {
+      "word": "was",
+      "count": 6,
+      "frequency": 0.009
+    },
+    {
+      "word": "that",
+      "count": 5,
+      "frequency": 0.008
+    },
+    {
+      "word": "but",
+      "count": 5,
+      "frequency": 0.008
+    },
+    {
+      "word": "it",
+      "count": 5,
+      "frequency": 0.008
+    },
+    {
+      "word": "domain",
+      "count": 4,
+      "frequency": 0.006
+    },
+    {
+      "word": "now",
+      "count": 4,
+      "frequency": 0.006
+    },
+    {
+      "word": "be",
+      "count": 4,
+      "frequency": 0.006
+    },
+    {
+      "word": "not",
+      "count": 4,
+      "frequency": 0.006
+    },
+    {
+      "word": "an",
+      "count": 4,
+      "frequency": 0.006
+    },
+    {
+      "word": "no",
+      "count": 4,
+      "frequency": 0.006
+    },
+    {
+      "word": "so",
+      "count": 4,
+      "frequency": 0.006
+    },
+    {
+      "word": "came",
+      "count": 4,
+      "frequency": 0.006
+    },
+    {
+      "word": "one",
+      "count": 4,
+      "frequency": 0.006
+    },
+    {
+      "word": "with",
+      "count": 4,
+      "frequency": 0.006
+    },
+    {
+      "word": "her",
+      "count": 4,
+      "frequency": 0.006
+    },
+    {
+      "word": "or",
+      "count": 3,
+      "frequency": 0.005
+    },
+    {
+      "word": "on",
+      "count": 3,
+      "frequency": 0.005
+    },
+    {
+      "word": "them",
+      "count": 3,
+      "frequency": 0.005
+    },
+    {
+      "word": "their",
+      "count": 3,
+      "frequency": 0.005
+    },
+    {
+      "word": "all",
+      "count": 3,
+      "frequency": 0.005
+    },
+    {
+      "word": "every",
+      "count": 3,
+      "frequency": 0.005
+    },
+    {
+      "word": "as",
+      "count": 3,
+      "frequency": 0.005
+    },
+    {
+      "word": "man",
+      "count": 3,
+      "frequency": 0.005
+    },
+    {
+      "word": "hammer",
+      "count": 3,
+      "frequency": 0.005
+    },
+    {
+      "word": "him",
+      "count": 3,
+      "frequency": 0.005
+    },
+    {
+      "word": "most",
+      "count": 3,
+      "frequency": 0.005
+    },
+    {
+      "word": "at",
+      "count": 3,
+      "frequency": 0.005
+    },
+    {
+      "word": "example",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "use",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "himself",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "after",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "still",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "do",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "toiled",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "patient",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "did",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "over",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "further",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "were",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "life",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "heavy",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "beating",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "heart",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "out",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "part",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "yet",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "grief",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "ruin",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "loving",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "wife",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "burglar",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "into",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "home",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "upon",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "up",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "young",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "stout",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "oh",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "woe",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "thou",
+      "count": 2,
+      "frequency": 0.003
+    },
+    {
+      "word": "is",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "illustrative",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "examples",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "documents",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "you",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "may",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "literature",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "without",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "prior",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "coordination",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "asking",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "permission",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "more",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "information",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "herman",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "melville",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "moby-dick",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "availing",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "mild",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "summer-cool",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "weather",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "reigned",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "these",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "latitudes",
+      "count": 1,
+      "frequency": 0.002
+    },
+    {
+      "word": "preparation",
+      "count": 1,
+      "frequency": 0.002
+    }
+  ],
+  "document_similarity": [
+    {
+      "doc1": "page_1.json",
+      "doc2": "page_3.json",
+      "similarity": 0.011
+    }
+  ],
+  "top_bigrams": [
+    {
+      "bigram": "of the",
+      "count": 6
+    },
+    {
+      "bigram": "of his",
+      "count": 5
+    },
+    {
+      "bigram": "the blacksmith",
+      "count": 4
+    },
+    {
+      "bigram": "to the",
+      "count": 3
+    },
+    {
+      "bigram": "this old",
+      "count": 3
+    },
+    {
+      "bigram": "old man",
+      "count": 3
+    },
+    {
+      "bigram": "and so",
+      "count": 3
+    },
+    {
+      "bigram": "in a",
+      "count": 3
+    },
+    {
+      "bigram": "example domain",
+      "count": 2
+    },
+    {
+      "bigram": "this domain",
+      "count": 2
+    },
+    {
+      "bigram": "to be",
+      "count": 2
+    },
+    {
+      "bigram": "old blacksmith",
+      "count": 2
+    },
+    {
+      "bigram": "by the",
+      "count": 2
+    },
+    {
+      "bigram": "to do",
+      "count": 2
+    },
+    {
+      "bigram": "he toiled",
+      "count": 2
+    },
+    {
+      "bigram": "a patient",
+      "count": 2
+    },
+    {
+      "bigram": "and the",
+      "count": 2
+    },
+    {
+      "bigram": "the heavy",
+      "count": 2
+    },
+    {
+      "bigram": "heavy beating",
+      "count": 2
+    },
+    {
+      "bigram": "beating of",
+      "count": 2
+    },
+    {
+      "bigram": "so it",
+      "count": 2
+    },
+    {
+      "bigram": "it was",
+      "count": 2
+    },
+    {
+      "bigram": "he had",
+      "count": 2
+    },
+    {
+      "bigram": "was the",
+      "count": 2
+    },
+    {
+      "bigram": "into his",
+      "count": 2
+    },
+    {
+      "bigram": "all of",
+      "count": 2
+    },
+    {
+      "bigram": "blacksmith s",
+      "count": 2
+    },
+    {
+      "bigram": "but with",
+      "count": 2
+    },
+    {
+      "bigram": "had the",
+      "count": 2
+    },
+    {
+      "bigram": "the young",
+      "count": 2
+    },
+    {
+      "bigram": "domain example",
+      "count": 1
+    },
+    {
+      "bigram": "domain this",
+      "count": 1
+    },
+    {
+      "bigram": "domain is",
+      "count": 1
+    },
+    {
+      "bigram": "is for",
+      "count": 1
+    },
+    {
+      "bigram": "for use",
+      "count": 1
+    },
+    {
+      "bigram": "use in",
+      "count": 1
+    },
+    {
+      "bigram": "in illustrative",
+      "count": 1
+    },
+    {
+      "bigram": "illustrative examples",
+      "count": 1
+    },
+    {
+      "bigram": "examples in",
+      "count": 1
+    },
+    {
+      "bigram": "in documents",
+      "count": 1
+    },
+    {
+      "bigram": "documents you",
+      "count": 1
+    },
+    {
+      "bigram": "you may",
+      "count": 1
+    },
+    {
+      "bigram": "may use",
+      "count": 1
+    },
+    {
+      "bigram": "use this",
+      "count": 1
+    },
+    {
+      "bigram": "domain in",
+      "count": 1
+    },
+    {
+      "bigram": "in literature",
+      "count": 1
+    },
+    {
+      "bigram": "literature without",
+      "count": 1
+    },
+    {
+      "bigram": "without prior",
+      "count": 1
+    },
+    {
+      "bigram": "prior coordination",
+      "count": 1
+    },
+    {
+      "bigram": "coordination or",
+      "count": 1
+    }
+  ],
+  "top_trigrams": [
+    {
+      "trigram": "this old man",
+      "count": 2
+    },
+    {
+      "trigram": "the heavy beating",
+      "count": 2
+    },
+    {
+      "trigram": "heavy beating of",
+      "count": 2
+    },
+    {
+      "trigram": "beating of his",
+      "count": 2
+    },
+    {
+      "trigram": "and so it",
+      "count": 2
+    },
+    {
+      "trigram": "the blacksmith s",
+      "count": 2
+    },
+    {
+      "trigram": "had the young",
+      "count": 2
+    },
+    {
+      "trigram": "example domain example",
+      "count": 1
+    },
+    {
+      "trigram": "domain example domain",
+      "count": 1
+    },
+    {
+      "trigram": "example domain this",
+      "count": 1
+    },
+    {
+      "trigram": "domain this domain",
+      "count": 1
+    },
+    {
+      "trigram": "this domain is",
+      "count": 1
+    },
+    {
+      "trigram": "domain is for",
+      "count": 1
+    },
+    {
+      "trigram": "is for use",
+      "count": 1
+    },
+    {
+      "trigram": "for use in",
+      "count": 1
+    },
+    {
+      "trigram": "use in illustrative",
+      "count": 1
+    },
+    {
+      "trigram": "in illustrative examples",
+      "count": 1
+    },
+    {
+      "trigram": "illustrative examples in",
+      "count": 1
+    },
+    {
+      "trigram": "examples in documents",
+      "count": 1
+    },
+    {
+      "trigram": "in documents you",
+      "count": 1
+    },
+    {
+      "trigram": "documents you may",
+      "count": 1
+    },
+    {
+      "trigram": "you may use",
+      "count": 1
+    },
+    {
+      "trigram": "may use this",
+      "count": 1
+    },
+    {
+      "trigram": "use this domain",
+      "count": 1
+    },
+    {
+      "trigram": "this domain in",
+      "count": 1
+    },
+    {
+      "trigram": "domain in literature",
+      "count": 1
+    },
+    {
+      "trigram": "in literature without",
+      "count": 1
+    },
+    {
+      "trigram": "literature without prior",
+      "count": 1
+    },
+    {
+      "trigram": "without prior coordination",
+      "count": 1
+    },
+    {
+      "trigram": "prior coordination or",
+      "count": 1
+    },
+    {
+      "trigram": "coordination or asking",
+      "count": 1
+    },
+    {
+      "trigram": "or asking for",
+      "count": 1
+    },
+    {
+      "trigram": "asking for permission",
+      "count": 1
+    },
+    {
+      "trigram": "for permission more",
+      "count": 1
+    },
+    {
+      "trigram": "permission more information",
+      "count": 1
+    },
+    {
+      "trigram": "herman melville moby-dick",
+      "count": 1
+    },
+    {
+      "trigram": "melville moby-dick availing",
+      "count": 1
+    },
+    {
+      "trigram": "moby-dick availing himself",
+      "count": 1
+    },
+    {
+      "trigram": "availing himself of",
+      "count": 1
+    },
+    {
+      "trigram": "himself of the",
+      "count": 1
+    },
+    {
+      "trigram": "of the mild",
+      "count": 1
+    },
+    {
+      "trigram": "the mild summer-cool",
+      "count": 1
+    },
+    {
+      "trigram": "mild summer-cool weather",
+      "count": 1
+    },
+    {
+      "trigram": "summer-cool weather that",
+      "count": 1
+    },
+    {
+      "trigram": "weather that now",
+      "count": 1
+    },
+    {
+      "trigram": "that now reigned",
+      "count": 1
+    },
+    {
+      "trigram": "now reigned in",
+      "count": 1
+    },
+    {
+      "trigram": "reigned in these",
+      "count": 1
+    },
+    {
+      "trigram": "in these latitudes",
+      "count": 1
+    },
+    {
+      "trigram": "these latitudes and",
+      "count": 1
+    }
+  ],
+  "readability": {
+    "avg_sentence_length": 25.8,
+    "avg_word_length": 4.7085,
+    "complexity_score": 121.4793
+  }
+}

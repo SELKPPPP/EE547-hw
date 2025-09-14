@@ -1,11 +1,11 @@
 import sys, os, json, time, datetime, re
 from urllib import request, error
+from datetime import datetime, timezone
 
-ISO_FMT = "%Y-%m-%dT%H:%M:%S.%fZ"  # ISO-8601 with Z
 
 def UTC_time():
     # always UTC with trailing Z
-    return datetime.datetime.utcnow().strftime(ISO_FMT)
+    return datetime.now(timezone.utc).isoformat()
 
 def is_text_content(content_type):
     if (content_type or "").lower().find("text") != -1: #Find text

@@ -1,0 +1,14 @@
+[
+    {
+  "PK": "CATEGORY#cs.LG",
+  "SK": "2023-01-15#2301.12345",
+  "arxiv_id": "2301.12345",
+  "title": "Paper Title",
+  "authors": ["Author1", "Author2"],
+  "abstract": "Full abstract text...",
+  "categories": ["cs.LG", "cs.AI"],
+  "keywords": ["keyword1", "keyword2"],
+  "published": "2023-01-15T10:30:00Z"
+}
+
+]
